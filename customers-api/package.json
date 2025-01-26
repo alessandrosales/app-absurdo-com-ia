@@ -1,0 +1,31 @@
+{
+  "name": "customers-api",
+  "version": "1.0.0",
+  "description": "API de clientes com documentação Swagger",
+  "main": "server.js",
+  "scripts": {
+    "prestart": "mkdir -p logs",
+    "start": "node server.js",
+    "predev": "mkdir -p logs",
+    "dev": "nodemon server.js",
+    "migrate": "knex migrate:latest",
+    "migrate:rollback": "knex migrate:rollback"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/material": "^6.4.1",
+    "axios": "^1.7.9",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "knex": "^3.1.0",
+    "sqlite3": "^5.1.7",
+    "swagger-jsdoc": "^6.1.0",
+    "swagger-ui-express": "^4.1.6",
+    "winston": "^3.17.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.17.16",
+    "nodemon": "^2.0.15"
+  }
+}
