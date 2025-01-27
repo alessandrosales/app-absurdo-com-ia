@@ -547,3 +547,88 @@
 {"level":"info","message":"Buscando todos os clientes","timestamp":"2025-01-26 20:05:29"}
 {"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2025-01-26 20:08:10"}
 {"level":"info","message":"Documentação disponível em http://localhost:3000/api-docs","timestamp":"2025-01-26 20:08:10"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2025-01-27 08:08:21"}
+{"level":"info","message":"Documentação disponível em http://localhost:3000/api-docs","timestamp":"2025-01-27 08:08:21"}
+{"level":"info","message":"Buscando todos os clientes","timestamp":"2025-01-27 08:08:31"}
+{"level":"info","message":"Requisição de dados do dashboard","timestamp":"2025-01-27 08:09:19"}
+{"level":"info","message":"Buscando dados do dashboard","timestamp":"2025-01-27 08:09:19"}
+{"level":"info","message":"Requisição de dados do dashboard","timestamp":"2025-01-27 08:09:19"}
+{"level":"info","message":"Buscando dados do dashboard","timestamp":"2025-01-27 08:09:19"}
+{"level":"info","message":"Requisição de dados do dashboard","timestamp":"2025-01-27 08:09:26"}
+{"level":"info","message":"Buscando dados do dashboard","timestamp":"2025-01-27 08:09:26"}
+{"level":"info","message":"Requisição de dados do dashboard","timestamp":"2025-01-27 08:09:26"}
+{"level":"info","message":"Buscando dados do dashboard","timestamp":"2025-01-27 08:09:26"}
+{"level":"info","message":"Requisição de dados do dashboard","timestamp":"2025-01-27 08:09:39"}
+{"level":"info","message":"Buscando dados do dashboard","timestamp":"2025-01-27 08:09:39"}
+{"level":"info","message":"Requisição de dados do dashboard","timestamp":"2025-01-27 08:09:39"}
+{"level":"info","message":"Buscando dados do dashboard","timestamp":"2025-01-27 08:09:39"}
+{"level":"info","message":"Requisição de dados do dashboard","timestamp":"2025-01-27 08:10:09"}
+{"level":"info","message":"Buscando dados do dashboard","timestamp":"2025-01-27 08:10:09"}
+{"level":"info","message":"Requisição de dados do dashboard","timestamp":"2025-01-27 08:10:09"}
+{"level":"info","message":"Buscando dados do dashboard","timestamp":"2025-01-27 08:10:09"}
+{"level":"info","message":"Requisição de dados do dashboard","timestamp":"2025-01-27 08:10:10"}
+{"level":"info","message":"Buscando dados do dashboard","timestamp":"2025-01-27 08:10:10"}
+{"level":"info","message":"Requisição de dados do dashboard","timestamp":"2025-01-27 08:10:10"}
+{"level":"info","message":"Buscando dados do dashboard","timestamp":"2025-01-27 08:10:10"}
+{"level":"info","message":"Buscando todos os clientes","timestamp":"2025-01-27 08:10:12"}
+{"level":"info","message":"Buscando todos os clientes","timestamp":"2025-01-27 08:10:12"}
+{"id":"1737931614977","level":"info","message":"Deletando cliente","timestamp":"2025-01-27 08:10:21"}
+{"id":"1737931614977","level":"info","message":"Cliente deletado com sucesso","timestamp":"2025-01-27 08:10:21"}
+{"level":"info","message":"Buscando todos os clientes","timestamp":"2025-01-27 08:10:21"}
+{"data":{"email":"marcio@gmail.com","name":"Marcio"},"level":"info","message":"Criando novo cliente","timestamp":"2025-01-27 08:10:31"}
+{"customerData":{"email":"marcio@gmail.com","name":"Marcio"},"level":"info","message":"Iniciando criação de cliente","timestamp":"2025-01-27 08:10:31"}
+{"customer":{"email":"marcio@gmail.com","id":"1737976231999","name":"Marcio"},"level":"info","message":"Cliente criado com sucesso","timestamp":"2025-01-27 08:10:32"}
+{"level":"info","message":"Buscando todos os clientes","timestamp":"2025-01-27 08:10:32"}
+{"level":"info","message":"Buscando todos os clientes","timestamp":"2025-01-27 08:10:32"}
+{"level":"info","message":"Requisição de dados do dashboard","timestamp":"2025-01-27 08:10:43"}
+{"level":"info","message":"Buscando dados do dashboard","timestamp":"2025-01-27 08:10:43"}
+{"level":"info","message":"Requisição de dados do dashboard","timestamp":"2025-01-27 08:10:43"}
+{"level":"info","message":"Buscando dados do dashboard","timestamp":"2025-01-27 08:10:43"}
+{"level":"info","message":"Requisição de dados do dashboard","timestamp":"2025-01-27 08:11:34"}
+{"level":"info","message":"Buscando dados do dashboard","timestamp":"2025-01-27 08:11:34"}
+{"level":"info","message":"Requisição de dados do dashboard","timestamp":"2025-01-27 08:11:34"}
+{"level":"info","message":"Buscando dados do dashboard","timestamp":"2025-01-27 08:11:34"}
+{"level":"info","message":"Buscando todos os clientes","timestamp":"2025-01-27 08:11:43"}
+{"level":"info","message":"Buscando todos os clientes","timestamp":"2025-01-27 08:11:43"}
+{"data":{"email":"lucasmaluco@hotmail.com","name":"Lucas Maluco"},"level":"info","message":"Criando novo cliente","timestamp":"2025-01-27 08:12:09"}
+{"customerData":{"email":"lucasmaluco@hotmail.com","name":"Lucas Maluco"},"level":"info","message":"Iniciando criação de cliente","timestamp":"2025-01-27 08:12:09"}
+{"customer":{"email":"lucasmaluco@hotmail.com","id":"1737976329009","name":"Lucas Maluco"},"level":"info","message":"Cliente criado com sucesso","timestamp":"2025-01-27 08:12:09"}
+{"level":"info","message":"Buscando todos os clientes","timestamp":"2025-01-27 08:12:09"}
+{"level":"info","message":"Buscando todos os clientes","timestamp":"2025-01-27 08:12:09"}
+{"id":"1737976329009","level":"info","message":"Buscando cliente específico","timestamp":"2025-01-27 08:12:12"}
+{"id":"1737976329009","level":"info","message":"Buscando cliente específico","timestamp":"2025-01-27 08:12:12"}
+{"data":{"created_at":"2025-01-27 11:12:09","email":"lucasmaluco@hotmail.com","id":"1737976329009","name":"Lucas Maluco alterado","updated_at":"2025-01-27 11:12:09"},"id":"1737976329009","level":"info","message":"Atualizando cliente","timestamp":"2025-01-27 08:12:16"}
+{"customerData":{"created_at":"2025-01-27 11:12:09","email":"lucasmaluco@hotmail.com","id":"1737976329009","name":"Lucas Maluco alterado","updated_at":"2025-01-27 11:12:09"},"id":"1737976329009","level":"info","message":"Iniciando atualização de cliente","timestamp":"2025-01-27 08:12:16"}
+{"id":"1737976329009","level":"info","message":"Cliente atualizado com sucesso","timestamp":"2025-01-27 08:12:16"}
+{"id":"1737976329009","level":"info","message":"Cliente atualizado com sucesso","timestamp":"2025-01-27 08:12:16"}
+{"level":"info","message":"Buscando todos os clientes","timestamp":"2025-01-27 08:12:16"}
+{"level":"info","message":"Buscando todos os clientes","timestamp":"2025-01-27 08:12:16"}
+{"id":"1737976329009","level":"info","message":"Deletando cliente","timestamp":"2025-01-27 08:12:24"}
+{"id":"1737976329009","level":"info","message":"Cliente deletado com sucesso","timestamp":"2025-01-27 08:12:24"}
+{"level":"info","message":"Buscando todos os clientes","timestamp":"2025-01-27 08:12:24"}
+{"level":"info","message":"Requisição de dados do dashboard","timestamp":"2025-01-27 08:12:27"}
+{"level":"info","message":"Buscando dados do dashboard","timestamp":"2025-01-27 08:12:27"}
+{"level":"info","message":"Requisição de dados do dashboard","timestamp":"2025-01-27 08:12:27"}
+{"level":"info","message":"Buscando dados do dashboard","timestamp":"2025-01-27 08:12:27"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2025-01-27 08:13:09"}
+{"level":"info","message":"Documentação disponível em http://localhost:3000/api-docs","timestamp":"2025-01-27 08:13:09"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2025-01-27 08:13:42"}
+{"level":"info","message":"Documentação disponível em http://localhost:3000/api-docs","timestamp":"2025-01-27 08:13:42"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2025-01-27 08:13:51"}
+{"level":"info","message":"Documentação disponível em http://localhost:3000/api-docs","timestamp":"2025-01-27 08:13:51"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2025-01-27 08:13:54"}
+{"level":"info","message":"Documentação disponível em http://localhost:3000/api-docs","timestamp":"2025-01-27 08:13:54"}
+{"level":"info","message":"Requisição de dados do dashboard","timestamp":"2025-01-27 08:14:50"}
+{"level":"info","message":"Buscando dados do dashboard","timestamp":"2025-01-27 08:14:50"}
+{"level":"info","message":"Requisição de dados do dashboard","timestamp":"2025-01-27 08:14:50"}
+{"level":"info","message":"Buscando dados do dashboard","timestamp":"2025-01-27 08:14:50"}
+{"level":"info","message":"Buscando todos os clientes","timestamp":"2025-01-27 08:14:57"}
+{"level":"info","message":"Buscando todos os clientes","timestamp":"2025-01-27 08:14:57"}
+{"level":"info","message":"Requisição de dados do dashboard","timestamp":"2025-01-27 08:15:04"}
+{"level":"info","message":"Buscando dados do dashboard","timestamp":"2025-01-27 08:15:04"}
+{"level":"info","message":"Requisição de dados do dashboard","timestamp":"2025-01-27 08:15:04"}
+{"level":"info","message":"Buscando dados do dashboard","timestamp":"2025-01-27 08:15:04"}
+{"level":"info","message":"Buscando todos os clientes","timestamp":"2025-01-27 08:15:05"}
+{"level":"info","message":"Buscando todos os clientes","timestamp":"2025-01-27 08:15:05"}
+{"level":"info","message":"Buscando todos os clientes","timestamp":"2025-01-27 08:15:09"}
+{"level":"info","message":"Buscando todos os clientes","timestamp":"2025-01-27 08:15:09"}

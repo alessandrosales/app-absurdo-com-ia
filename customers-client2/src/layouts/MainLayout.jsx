@@ -20,6 +20,7 @@ import {
 } from "@mui/icons-material";
 import { styled, keyframes } from "styled-components";
 import { Sidebar } from "../components/Sidebar";
+import { MatrixEffect } from "../components/MatrixEffect";
 
 const drawerWidth = 240;
 
@@ -121,6 +122,7 @@ export function MainLayout() {
 
   return (
     <MainContainer>
+      <MatrixEffect />
       <Sidebar />
       <ContentArea>
         <Header>

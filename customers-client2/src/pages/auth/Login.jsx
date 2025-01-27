@@ -2,6 +2,7 @@ import { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import { Person, Lock, Visibility, VisibilityOff } from "@mui/icons-material";
 import "../../styles/global.css";
+import { MatrixEffect } from "../../components/MatrixEffect";
 
 export function Login() {
   const [formData, setFormData] = useState({
@@ -34,6 +35,7 @@ export function Login() {
 
   return (
     <div className="cyber-container">
+      <MatrixEffect />
       <div className="cyber-box">
         <h1 className="cyber-title">{`>`} LOGIN_</h1>
         
